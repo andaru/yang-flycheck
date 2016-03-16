@@ -20,5 +20,5 @@ a `yang-mode` hook).
 An example displaying the `*flycheck errors*` buffer available using
 `M-x` `flycheck-list-errors`:
 
-<img src="./doc/ss1.png" alt="screenshot of YANG module errors in emacs" width="850" />
+<img src="./doc/ss.png" alt="screenshot of YANG module errors in emacs" width="850" />
 
